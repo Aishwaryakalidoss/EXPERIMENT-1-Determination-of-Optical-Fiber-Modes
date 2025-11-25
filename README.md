@@ -52,6 +52,8 @@ coupling lens assembly by adjusting the vertical and horizontal travel arrangeme
 
 
 ## 📊 OBSERVATION AND CALCULATION
+![EXP 1 observaation](https://github.com/user-attachments/assets/64c43b49-795c-4314-aa0e-3a3e2fc1f198)
+
 
 - 
 Parameter of given fiber are,
@@ -63,4 +65,7 @@ Total number of modes = V2 / 2 = 4.912 / 2
 
 ---
 ## Tabulation
+![EXP 1 tabulation](https://github.com/user-attachments/assets/1f36634c-cf26-4abc-a85f-dc12fc3b4b2d)
+
 ## Result
+Thus, the experiment verified the presence of lower-order Linearly Polarized (LP) modes and confirmed the dependence of mode propagation on V-number and fiber alignment.
